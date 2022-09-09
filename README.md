@@ -1,2 +1,7 @@
 # ForeignLanguageSchool
-WPF application to manage processes in langage school
+
+WPF приложение для школы иностранных языков
+
+## Авторы
+
+* **Кирилл** - *Initial work* - [GlittersIsGold](https://github.com/GlittersIsGold)
